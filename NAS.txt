@@ -85,6 +85,26 @@ Comedy\My Spy\01_My Spy (2020).mkv
 Comedy\My Spy\02_My Spy. The Eternal City (2024).mkv
 Comedy\Ted\01_Ted (2012).avi
 Comedy\Ted\02_Ted 2 (2015).mkv
+Dark\Awake (2007).mkv
+Dark\Cold Storage (2026).mkv
+Dark\Conclave (2024).mkv
+Dark\Flight Risk (2025).mkv
+Dark\Fresh (2022).mkv
+Dark\Leave The World Behind (2023).mkv
+Dark\Longlegs (2024).mkv
+Dark\Memento (2000).avi
+Dark\No One Will Save You (2023).mkv
+Dark\Nope (2022).mkv
+Dark\Perfume. The Story of a Murderer (2006).avi
+Dark\Priest (2011).mkv
+Dark\Side Effects (2013).avi
+Dark\Stonehearst Asylum (2014).avi
+Dark\The Belko Experiment (2016).mkv
+Dark\The Invisible Man (2020).mkv
+Dark\The Menu (2022).mkv
+Dark\The Order (2024).mkv
+Dark\The Strays (2023).mkv
+Dark\Trap (2024).mkv
 Dark\-A Quiet Place\-01-03_A Quiet Place Part III 20270730
 Dark\-A Quiet Place\01-01_A Quiet Place (2018).mkv
 Dark\-A Quiet Place\01-02_A Quiet Place Part II (2020).mkv
@@ -103,95 +123,122 @@ Dark\Hannibal\02-03_Red Dragon (2002).avi
 Dark\Hannibal\02-04_Hannibal Rising (2007).avi
 Dark\Ready or Not\01_Ready or Not (2019).mkv
 Dark\Ready or Not\02_Ready or Not 2. Here I Come (2026).mkv
-Dark\Smile\02_Smile 2 (2024).mkv
 Dark\Smile\01_Smile (2022).mkv
-Drama\12 Years a Slave 2013.mkv
-Drama\Asylum 2005.avi
-Drama\Blood Diamond 2006.mkv
-Drama\Bohemian Rhapsody 2018.mkv
-Drama\Chasing Maverics 2012.avi
-Drama\Darkest Hour 2017.mkv
-Drama\Fukushima 50 2020.mkv
-Drama\Gladiator 2000.avi
-Drama\Hacksaw Ridge 2016.mkv
-Drama\Inglourious Basterds 2009.avi
-Drama\Little Ashes 2008.avi
-Drama\Meet Joe Black 1998.avi
-Drama\Memoirs of a Geisha 2005.avi
-Drama\Mr. Nobody 2009.avi
-Drama\Noah 2014.avi
-Drama\On the Road 2012.mkv
-Drama\Oppenheimer 2023.mkv
-Drama\Peaceful Warrior 2006.avi
-Drama\Pink Floyd The Wall 1982.ts
-Drama\Remember Me 2010.avi
-Drama\Schindler's List 1993.avi
-Drama\Shortbus 2006.mkv
-Drama\Shrink 2009.avi
-Drama\Slumdog Millionaire 2008.avi
-Drama\Son Of God 2014.mkv
-Drama\Soul Surfer 2011.avi
-Drama\Sweeney Todd. The Demon Barber of Fleet Street 2007.avi
-Drama\The Beach 2000.avi
-Drama\The Children of Huang Shi 2008.avi
-Drama\The Class 2008.avi
-Drama\The Count of Monte Cristo 2024.mkv
-Drama\The King's Speech 2010.avi
-Drama\The Passion of the Christ 2004.avi
-Drama\The Phantom Of The Opera 2004.mkv
-Drama\The Pianist 2002.avi
-Drama\The Place 2017.mkv
-Drama\The Prestige 2006.avi
-Drama\Twelve Monkeys 1995.avi
-Drama\War Horse 2011.avi
-Dystopian\Anon 2018.mkv
-Dystopian\Awake 2021.mkv
-Dystopian\Boy Kills World 2023.mkv
-Dystopian\Captive State 2019.mkv
-Dystopian\Concrete Utopia 2023.mkv
-Dystopian\Dont Worry Darling 2022.mkv
-Dystopian\Dredd 2012.mkv
-Dystopian\Elysium 2013.mkv
-Dystopian\Freaks 2018.mkv
-Dystopian\In Time 2011.mkv
-Dystopian\Level 16 2018.mp4
-Dystopian\Mickey 17 2025.mkv
-Dystopian\Nerve 2016.mkv
-Dystopian\Spiderhead 2022.mkv
-Dystopian\Surrogates 2009.avi
-Dystopian\The Assessment 2024.mp4
-Dystopian\The Circle 2017.mkv
-Dystopian\The Girl with All the Gifts 2016.mkv
-Dystopian\The Hunt 2020.mkv
-Dystopian\The Long Walk 2025.mkv
-Dystopian\The Running Man 2025.mkv
-Dystopian\They Cloned Tyrone 2023.mkv
-Dystopian\Time To Hunt 2020.mkv
-Dystopian\Uglies 2024.mkv
-Dystopian\28\01_28 Days Later 2002.avi
-Dystopian\28\02_28 Weeks Later 2007.avi
-Dystopian\28\03_28 Years Later 2025.mkv
-Dystopian\28\04_28 Years Later The Bone Temple 2026.mkv
-Dystopian\Code 8\01_Code 8 2019.mp4
-Dystopian\Code 8\02_Code 8 Part II 2024.mkv
-Dystopian\The Platform\01_The Platform 2019.mkv
-Dystopian\The Platform\02_The Platform 2 2024.mkv
-Dystopian\The Purge\01_The Purge 2013.avi
-Dystopian\The Purge\02_The Purge Anarchy 2014.mkv
-Dystopian\The Purge\03_The Purge Election Year 2016.mkv
-Dystopian\The Purge\04_The First Purge 2018.mkv
-Dystopian\The Purge\05_The Forever Purge 2021.mkv
+Dark\Smile\02_Smile 2 (2024).mkv
+Dark\The Black Phone\01_The Black Phone (2021).mkv
+Dark\The Black Phone\02_Black Phone 2 (2025).mkv
+Dark\Unbreakable\01_Unbreakable (2000).avi
+Dark\Unbreakable\02_Split (2016).mkv
+Dark\Unbreakable\03_Glass (2019).mkv
+Drama\Angel-A (2005).avi
+Drama\Asylum (2005).avi
+Drama\August Rush (2007).avi
+Drama\Blood Diamond (2006).mkv
+Drama\Bohemian Rhapsody (2018).mkv
+Drama\Brothers (2009).avi
+Drama\Capote (2005).avi
+Drama\Chasing Mavericks (2012).mp4
+Drama\Darkest Hour (2017).mkv
+Drama\Hacksaw Ridge (2016).mkv
+Drama\Inglourious Basterds (2009).avi
+Drama\Little Ashes (2008).avi
+Drama\Lying and Stealing (2019).mkv
+Drama\Meet Joe Black (1998).avi
+Drama\Memoirs of a Geisha (2005).avi
+Drama\Noah (2014).avi
+Drama\On the Road (2012).mkv
+Drama\Oppenheimer (2023).mkv
+Drama\Peaceful Warrior (2006).avi
+Drama\Pink Floyd. The Wall (1982).mp4
+Drama\Remember Me (2010).avi
+Drama\Risen (2016).mkv
+Drama\Salvable (2025).mkv
+Drama\Schindler's List (1993).avi
+Drama\Shortbus (2006).mkv
+Drama\Shrink (2009).avi
+Drama\Slumdog Millionaire (2008).avi
+Drama\Son of God (2014).mkv
+Drama\Soul Surfer (2011).avi
+Drama\The Beach (2000).avi
+Drama\The Children of Huang Shi (2008).avi
+Drama\The Class (2008).avi
+Drama\The Count Of Monte Cristo (2024).mkv
+Drama\The Illusionist (2006).avi
+Drama\The King's Speech (2010).avi
+Drama\The Phantom of the Opera (2004).mkv
+Drama\The Pianist (2002).avi
+Drama\The Place (2017).mkv
+Drama\The Prestige (2006).avi
+Drama\The Zone of Interest (2023).mkv
+Drama\Waiting for Forever (2010).mkv
+Drama\Warfare (2025).mkv
+Drama\Gladiator\01_Gladiator (2000).mkv
+Drama\Gladiator\02_Gladiator II (2024).mkv
+Dystopian\Anon (2018).mkv
+Dystopian\Awake (2021).mkv
+Dystopian\Boy Kills World (2023).mkv
+Dystopian\Captive State (2019).mkv
+Dystopian\Civil War (2024).mp4
+Dystopian\Don't Worry Darling (2022).mkv
+Dystopian\Dredd (2012).mkv
+Dystopian\Elysium (2013).mkv
+Dystopian\Freaks (2018).mkv
+Dystopian\In Time (2011).mkv
+Dystopian\Level 16 (2018).mp4
+Dystopian\Mickey 17 (2025).mkv
+Dystopian\Nerve (2016).mkv
+Dystopian\Spiderhead (2022).mkv
+Dystopian\The Assessment (2024).mp4
+Dystopian\The Circle (2017).mkv
+Dystopian\The Girl with All the Gifts (2016).mkv
+Dystopian\The Hunt (2020).mkv
+Dystopian\The Long Walk (2025).mkv
+Dystopian\The Running Man (2025).mkv
+Dystopian\They Cloned Tyrone (2023).mkv
+Dystopian\Time To Hunt (2020).mkv
+Dystopian\Uglies (2024).mkv
+Dystopian\28\01_28 Days Later (2002).avi
+Dystopian\28\02_28 Weeks Later (2007).avi
+Dystopian\28\03_28 Years Later (2025).mkv
+Dystopian\28\04_28 Years Later The Bone Temple (2026).mkv
+Dystopian\Bird Box\01_Bird Box (2018).mkv
+Dystopian\Bird Box\02_Bird Box Barcelona (2023) EN.mkv
+Dystopian\Code 8\01_Code 8 (2019).mp4
+Dystopian\Code 8\02_Code 8 Part II (2024).mkv
+Dystopian\Concrete Utopia Universe\01_Concrete Utopia (2023).mkv
+Dystopian\Concrete Utopia Universe\02_Badland Hunters (2024).mp4
+Dystopian\The Platform\01_The Platform (2019).mkv
+Dystopian\The Platform\02_The Platform 2 (2024).mkv
+Dystopian\The Purge\01_The Purge (2013).avi
+Dystopian\The Purge\02_The Purge Anarchy (2014).mkv
+Dystopian\The Purge\03_The Purge Election Year (2016).mkv
+Dystopian\The Purge\04_The First Purge (2018).mkv
+Dystopian\The Purge\05_The Forever Purge (2021).mkv
+Dystopian\The Thinning\01_The Thinning (2016).mkv
+Dystopian\The Thinning\02_The Thinning New World Order (2018) EN.mkv
+Fantasy\A Boy Called Christmas (2021).mkv
 Fantasy\A Minecraft Movie 2025.mkv
-Fantasy\Hansel & Gretel. Witch Hunters 2013.avi
-Fantasy\Horns 2013.avi
-Fantasy\Miss Peregrine´s Home for Peculiar Children 2016.mkv
-Fantasy\The Crow 1994.avi
-Fantasy\The Crow 2024.mkv
-Fantasy\The Illusionist 2006.avi
-Fantasy\Van Helsing 2004.avi
-Fantasy\Fantastic Beasts\01 Fantastic Beasts and Where to Find Them 2016.mkv
-Fantasy\Fantastic Beasts\02 Fantastic Beasts The Crimes of Grindelwald 2018.mkv
-Fantasy\Fantastic Beasts\03 Fantastic Beasts The Secrets of Dumbledore 2022.mkv
+Fantasy\Aladdin (2019).mkv
+Fantasy\Alchemist Academy (2025).mkv
+Fantasy\Bright 2017.mkv
+Fantasy\Damsel (2024).mkv
+Fantasy\Dungeons & Dragons Honor Among Thieves (2023).mkv
+Fantasy\Hansel & Gretel. Witch Hunters (2013).avi
+Fantasy\Horns (2013).avi
+Fantasy\Miss Peregrine's Home for Peculiar Children (2016).mkv
+Fantasy\Pan's Labyrinth (2006).avi
+Fantasy\The Crow (1994).avi
+Fantasy\The Crow (2024).mkv
+Fantasy\The House with a Clock in Its Walls (2018).mkv
+Fantasy\The Kid Who Would Be King (2019).mkv
+Fantasy\The Little Mermaid (2023).mkv
+Fantasy\The Mummy (2017).mkv
+Fantasy\The Portable Door (2023).mkv
+Fantasy\The Witches (2020).mkv
+Fantasy\Van Helsing (2004).avi
+Fantasy\Fantastic Beasts\01_Fantastic Beasts and Where to Find Them (2016).mkv
+Fantasy\Fantastic Beasts\02_Fantastic Beasts The Crimes of Grindelwald (2018).mkv
+Fantasy\Fantastic Beasts\03_Fantastic Beasts The Secrets of Dumbledore (2022).mkv
 Fantasy\Harry Potter\01 Harry Potter and the Sorcerers Stone 2001.mkv
 Fantasy\Harry Potter\02 Harry Potter and the Chamber of Secrets 2002.mkv
 Fantasy\Harry Potter\03 Harry Potter and the Prisoner of Azkaban 2004.mkv
@@ -200,16 +247,15 @@ Fantasy\Harry Potter\05 Harry Potter and the Order of the Phoenix 2007.mkv
 Fantasy\Harry Potter\06 Harry Potter and the Half Blood Prince 2009.mkv
 Fantasy\Harry Potter\07 Harry Potter and the Deathly Hallows Part 1 2010.mkv
 Fantasy\Harry Potter\08 Harry Potter and the Deathly Hallows Part 2 2011.mkv
-Fantasy\Harry Potter\09 Harry Potter 20th Anniversary Return to Hogwarts 2022.mkv - Shortcut.lnk
-Fantasy\Percy Jackson\01 Percy Jackson and the Olympians The Lightning Thief 2010.avi
-Fantasy\Percy Jackson\02 Percy Jackson Sea of Monsters 2013.avi
-Fantasy\Twilight\01 Twilight 2008.avi
-Fantasy\Twilight\02 The Twilight Saga. New Moon 2009.avi
-Fantasy\Twilight\03 The Twilight Saga. Eclipse 2010.avi
-Fantasy\Twilight\04 The Twilight Saga. Breaking Dawn – Part 1 2011.avi
-Fantasy\Twilight\05 The Twilight Saga. Breaking Dawn – Part 2 2012.avi
-Fantasy\Woodwalkers\01_Woodwalkers 2024.mkv
-Fantasy\Woodwalkers\02_Woodwalkers 2 2026.mkv
+Fantasy\Huntsman\01_Snow White and the Huntsman (2012).avi
+Fantasy\Huntsman\02_The Huntsman Winter's War (2016).mkv
+Fantasy\Percy Jackson\01_Percy Jackson and the Olympians The Lightning Thief (2010).avi
+Fantasy\Percy Jackson\02_Percy Jackson Sea of Monsters (2013).avi
+Fantasy\Twilight\01_Twilight (2008).avi
+Fantasy\Twilight\02_The Twilight Saga. New Moon (2009).avi
+Fantasy\Twilight\03_The Twilight Saga. Eclipse (2010).avi
+Fantasy\Twilight\04_The Twilight Saga. Breaking Dawn - Part 1 (2011).avi
+Fantasy\Twilight\05_The Twilight Saga. Breaking Dawn - Part 2 (2012).avi
 Marvel\01-01-01_Captain America - The First Avenger (2011).avi
 Marvel\01-01-02_Captain Marvel (2019).mkv
 Marvel\01-01-03_Iron Man (2008).avi
@@ -294,48 +340,57 @@ Marvel\04-04-09_Punisher - War Zone (2008) — Ray Stevenson.avi
 Marvel\04-04-10_Punisher - War Zone (2008) — Ray Stevenson
 Marvel\04-04-11_Ghost Rider - Spirit of Vengeance (2012).avi
 Marvel\04-04-12_Big Hero 6 (2014).mkv
-Sci-Fi\57 Seconds 2023.mkv
-Sci-Fi\Elysium 2013.mkv
-Sci-Fi\Enders Game 2013.avi
-Sci-Fi\Geostorm 2017.mkv
-Sci-Fi\Gravity 2013.avi
-Sci-Fi\I Am Number Four 2011.avi
-Sci-Fi\Inception 2010.avi
-Sci-Fi\Interstellar 2014.mkv
-Sci-Fi\Jumper 2008.avi
-Sci-Fi\Last Survivors 2021.mkv
-Sci-Fi\Limitless 2011.avi
-Sci-Fi\Looper 2012.mkv
-Sci-Fi\Lucy 2014.mkv
-Sci-Fi\Moonfall 2022.mkv
-Sci-Fi\Oblivion 2013.avi
-Sci-Fi\Ready Player One 2018.mkv
-Sci-Fi\Self Less 2015.mkv
-Sci-Fi\Source Code 2011.avi
-Sci-Fi\Tenet 2020.mkv
-Sci-Fi\The Creator 2023.mkv
-Sci-Fi\The Host 2013.mkv
-Sci-Fi\The Space Between Us 2017.mkv
-Sci-Fi\The Tomorrow War 2021.mkv
-Sci-Fi\Tomorrowland 2015.mkv
-Sci-Fi\What Happened to Monday 2017.mkv
-Sci-Fi\Darko\01 Donnie Darko 2001.avi
-Sci-Fi\Darko\02 S. Darko 2009.mkv
-Sci-Fi\Divergent\01 Divergent 2014.mkv
-Sci-Fi\Divergent\02 The Divergent Series. Insurgent 2015.mkv
-Sci-Fi\Divergent\03 The Divergent Series. Allegiant 2016.mkv
-Sci-Fi\Maze Runner\01 The Maze Runner 2014.mkv
-Sci-Fi\Maze Runner\02 Maze Runner The Scorch Trials 2015.mkv
-Sci-Fi\Maze Runner\03 Maze Runner The Death Cure 2018.mkv
-Sci-Fi\The Hunger Games\01 The Hunger Games 2012.mkv
-Sci-Fi\The Hunger Games\02 The Hunger Games Catching Fire 2013.mkv
-Sci-Fi\The Hunger Games\03 The Hunger Games Mockingjay Part 1 2014.mkv
-Sci-Fi\The Hunger Games\04 The Hunger Games Mockingjay Part 2 2015.mkv
-Sci-Fi\The Hunger Games\05 The Hunger Games The Ballad of Songbirds and Snakes 2023.mkv
-Sci-Fi\The Matrix\01 The Matrix 1999.avi
-Sci-Fi\The Matrix\02 The Matrix Reloaded 2003.avi
-Sci-Fi\The Matrix\03 The Matrix Revolutions 2003.avi
-Sci-Fi\The Matrix\04 The Matrix Resurrections 2021.mkv
-Sci-Fi\Tron\01 Tron 1982.mkv
-Sci-Fi\Tron\02 Tron Legacy 2010.avi
-Sci-Fi\Tron\03 Tron Ares 2025.mkv
+Sci-Fi\57 Seconds (2023).mkv
+Sci-Fi\Alita Battle Angel (2019).mkv
+Sci-Fi\Atlas (2024).mkv
+Sci-Fi\Boss Level (2020).mkv
+Sci-Fi\Chaos Walking (2021).mkv
+Sci-Fi\Ender's Game (2013).avi
+Sci-Fi\Everything Everywhere All at Once (2022).mkv
+Sci-Fi\Geostorm (2017).mkv
+Sci-Fi\Gravity (2013).avi
+Sci-Fi\Her (2013).mkv
+Sci-Fi\High Life (2018).mkv
+Sci-Fi\I Am Mother (2019).mkv
+Sci-Fi\I Am Number Four (2011).avi
+Sci-Fi\Jumper (2008).avi
+Sci-Fi\Last Survivors (2021).mkv
+Sci-Fi\Limitless (2011).avi
+Sci-Fi\Looper (2012).mkv
+Sci-Fi\Lucy (2014).mkv
+Sci-Fi\Mirage (2018).mkv
+Sci-Fi\Moonfall (2022).mkv
+Sci-Fi\Mr. Nobody (2009).avi
+Sci-Fi\Oblivion (2013).avi
+Sci-Fi\Predestination (2014).mkv
+Sci-Fi\Project Hail Mary (2026).mkv
+Sci-Fi\Ready Player One (2018).mkv
+Sci-Fi\Self Less (2015).mkv
+Sci-Fi\Songbird (2020).mkv
+Sci-Fi\Stowaway (2021).mkv
+Sci-Fi\Tenet (2020).mkv
+Sci-Fi\The 5th Wave (2016).mkv
+Sci-Fi\The Adam Project (2022).mkv
+Sci-Fi\The Creator (2023).mkv
+Sci-Fi\The Day the Earth Stood Still (2008).mkv
+Sci-Fi\The Final Countdown (1980).mkv
+Sci-Fi\The Host (2013).mkv
+Sci-Fi\The Pod Generation (2023).mkv
+Sci-Fi\The Space Between Us (2017).mkv
+Sci-Fi\The Tomorrow War (2021).mkv
+Sci-Fi\Tides (2021).mkv
+Sci-Fi\Tomorrowland (2015).mkv
+Sci-Fi\Twelve Monkeys (1995).avi
+Sci-Fi\Upgrade (2018).mkv
+Sci-Fi\Voyagers (2021).mkv
+Sci-Fi\-Dune\01_Dune (2021).mkv
+Sci-Fi\-Dune\02_Dune Part Two (2024).mkv
+Sci-Fi\-Dune\03_Dune Part Three 20261218
+Sci-Fi\-The Wandering Earth\01_The Wandering Earth II (2023).mkv
+Sci-Fi\-The Wandering Earth\02_The Wandering Earth (2019).mkv
+Sci-Fi\-The Wandering Earth\03_The Wandering Earth 3 20270206
+Sci-Fi\Darko\01_Donnie Darko (2001).avi
+Sci-Fi\Darko\02_S. Darko (2009).mkv
+Sci-Fi\Tron\01_Tron (1982).mkv
+Sci-Fi\Tron\02_Tron Legacy (2010).avi
+Sci-Fi\Tron\03_Tron Ares (2025).mkv
